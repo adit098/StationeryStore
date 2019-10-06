@@ -14,7 +14,7 @@ body, html{
 #particles-js{	
 	background-image: url(images/art-color-colourful-207665_large.jpg);
 	background-size: cover;
-	height: 800px;
+	height: 100%;
 }
 
 .btext{
