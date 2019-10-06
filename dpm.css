@@ -3,8 +3,13 @@
 *{
 	margin: 0;
 	padding: 0;
+  box-sizing: border-box;
 }
-
+body, html{
+  font-family: 'Roboto', sans-serif;
+  height: 100%;
+  margin: 0;
+}
 
 #particles-js{	
 	background-image: url(images/art-color-colourful-207665_large.jpg);
@@ -23,7 +28,7 @@
 }
 
 .btext h1{
-	filter: contrast(140%);
+	filter: contrast(145%);
 }
 
 
